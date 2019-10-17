@@ -3,3 +3,4 @@ Endor
 Coruscant
 zonyas
 Marte
+Terra
